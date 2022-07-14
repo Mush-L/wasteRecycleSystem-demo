@@ -1,0 +1,28 @@
+# 修改端口号
+server:
+  port: 9090
+
+# 数据库连接池
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/waste_recycle?serverTimezone=GMT%2b8
+    username: root
+    password: mush
+
+# mybatis 配置
+mybatis:
+  # 扫描所有 mybatis 的 xml 文件
+  mapper-locations:
+    classpath:mapper/*.xml
+# 被 mybatis plus 接管
+#  configuration:
+#    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+files:
+  upload:
+    path: D:/Project/All/Waste/files/

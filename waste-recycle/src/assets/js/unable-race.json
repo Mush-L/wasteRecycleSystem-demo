@@ -1,0 +1,153 @@
+{
+  "metadata": [
+    {
+      "value": "金属电子",
+      "label": "金属电子",
+      "children": [
+        {
+          "value": "废旧金属",
+          "label": "废旧金属",
+          "children": [
+            { "value": "废钢", "label": "废钢" },
+            { "value": "废铁", "label": "废铁" },
+            { "value": "废铝", "label": "废铝" }
+          ]
+        },
+        {
+          "value": "废旧电子",
+          "label": "废旧电子",
+          "children": [
+            { "value": "线路板", "label": "线路板" },
+            { "value": "二极管三极管", "label": "二极管三极管" },
+            { "value": "电容电阻", "label": "电容电阻" }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "塑料橡胶",
+      "label": "塑料橡胶",
+      "children": [
+        {
+          "value": "废旧塑料",
+          "label": "废旧塑料",
+          "children": [
+            { "value": "通用塑料", "label": "通用塑料" },
+            { "value": "工程塑料", "label": "工程塑料" },
+            { "value": "特种塑料", "label": "特种塑料" }
+          ]
+        },
+        {
+          "value": "废旧橡胶",
+          "label": "废旧橡胶",
+          "children": [
+            { "value": "电线皮", "label": "电线皮" },
+            { "value": "轮胎", "label": "轮胎" },
+            { "value": "合成橡胶", "label": "合成橡胶" }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "纸张皮革",
+      "label": "纸张皮革",
+      "children": [
+        {
+          "value": "废旧纸张",
+          "label": "废旧纸张",
+          "children": [
+            { "value": "报纸", "label": "报纸" },
+            { "value": "纸箱", "label": "纸箱" },
+            { "value": "旧书", "label": "旧书" }
+          ]
+        },
+        {
+          "value": "纺织皮革",
+          "label": "纺织皮革",
+          "children": [
+            { "value": "天然纺织原料", "label": "天然纺织原料" },
+            { "value": "纱线丝", "label": "纱线丝" },
+            { "value": "纺织面料", "label": "纺织面料" },
+            { "value": "皮革制品", "label": "皮革制品" }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "废旧设备",
+      "label": "废旧设备",
+      "children": [
+        {
+          "value": "办公设备",
+          "label": "办公设备",
+          "children": [
+            { "value": "打印机", "label": "打印机" },
+            { "value": "电话传真机", "label": "电话传真机" },
+            { "value": "复印机", "label": "复印机" }
+          ]
+        },
+        {
+          "value": "废旧电器",
+          "label": "废旧电器",
+          "children": [
+            { "value": "电视机", "label": "电视机" },
+            { "value": "洗衣机", "label": "洗衣机" },
+            { "value": "空调", "label": "空调" },
+            { "value": "其他电器", "label": "其他电器" }
+          ]
+        },
+        {
+          "value": "废品处理设备",
+          "label": "废品处理设备",
+          "children": [
+            { "value": "注塑机", "label": "注塑机" },
+            { "value": "磨粉机", "label": "磨粉机" },
+            { "value": "分离设备", "label": "分离设备" }
+          ]
+        },
+        {
+          "value": "医疗设备",
+          "label": "医疗设备",
+          "children": [
+            { "value": "废输液瓶", "label": "废输液瓶" },
+            { "value": "注射设备", "label": "注射设备" },
+            { "value": "医疗器具", "label": "医疗器具" }
+          ]
+        },
+        {
+          "value": "其他设备",
+          "label": "其他设备",
+          "children": [
+            { "value": "工程设备", "label": "工程设备" },
+            { "value": "化工设备", "label": "化工设备" },
+            { "value": "冶炼设备", "label": "冶炼设备" }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "工程玻璃",
+      "label": "工程玻璃",
+      "children": [
+        {
+          "value": "废旧玻璃",
+          "label": "废旧玻璃",
+          "children": [
+            { "value": "酒瓶", "label": "酒瓶" },
+            { "value": "鱼缸", "label": "鱼缸" },
+            { "value": "玻璃瓶罐", "label": "玻璃瓶罐" }
+          ]
+        },
+        {
+          "value": "工程拆除",
+          "label": "工程拆除",
+          "children": [
+            { "value": "建筑拆除", "label": "建筑拆除" },
+            { "value": "设备拆除", "label": "设备拆除" },
+            { "value": "其他", "label": "其他" }
+          ]
+        }
+      ]
+    }
+  ]
+}
